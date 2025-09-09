@@ -50,7 +50,18 @@ Gjithsej	3775	m²	Gjithsej	3775	m²
 
 
 # kerkesa
+
 ```
+251/2025
+
+Shabi (Baki) Istrefi 
+1030008576
++38345828540
+00544-0,00545-0
+Semajë
+Kaçanik
+
 --- dyfishet ---->
 50,256
+
 ```
