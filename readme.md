@@ -14,7 +14,7 @@ Shabi (Baki) Istrefi
 2059
 2072.688
 +14
-Mal 2
+Mal (2) 
 Jezulia
 
 2072.688
@@ -24,7 +24,7 @@ Jezulia
 1715
 1701.959
 -13
-Kullose 4
+Kullose (4)
 Jezulia
 
 Gjendja e vjetër			Gjendja e re		
